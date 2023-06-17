@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Everyone 👋
+
+## This is my secondary github where I will place the repos of my instagram and tiktok projects
+
 
 <!--
 **itricodes/itricodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
